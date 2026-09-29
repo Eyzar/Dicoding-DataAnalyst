@@ -22,7 +22,7 @@ Dicoding_DataAnalyst/
 ├── README.md
 ├── requirements.txt
 └── url.txt
-
+```
 
 ## Setup Environment - Anaconda
 ```
